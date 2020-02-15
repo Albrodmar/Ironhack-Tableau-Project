@@ -1,3 +1,9 @@
- Dataset from https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
+Tableau Proyect at:
+https://public.tableau.com/views/supermarket_15817671638590/Carrefour?:display_count=y&:origin=viz_share_link 
 
-Obtengo un dataset con eventos y conversiones en la web de The Body Shop durante octubre y noviembre de 2019 (www.thebodyshop.com)
+Dataset from: https://www.kaggle.com/aungpyaeap/supermarket-sales
+
+Dataset with sales during  1T 2019 from Carrefour.
+
+First analyzing Customer segmentation.
+Followed for sales by line.
